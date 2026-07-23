@@ -5,6 +5,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 ## 🚀 Live Website
 
 🔗 https://gautam-0999.github.io/GAUTAM-CHOPRA-PORTFOLIO/
+🔗 https://gautamchopra.netlify.app/
 
 
 ---
