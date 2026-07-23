@@ -46,8 +46,6 @@ GAUTAM-CHOPRA-PORTFOLIO/
 │── style.css
 │── script.js
 │── Gautam_Chopra_Resume_FINAL.pdf
-│── assets/
-│── images/
 ```
 
 ---
